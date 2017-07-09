@@ -1,0 +1,112 @@
+.navbar{
+	background-color: transparent;
+	border:none;
+}
+.dropdown-menu li{
+	background-color: #000;
+	color: #777;
+
+}
+.navbar i{
+	background-color: #777;
+	color: #fff;
+	position: fixed;
+	padding: 5px;
+}
+.dropdown{
+	padding-left: 1200px;
+}
+header{
+	background-image: url("../images/bcity.jpg");
+	height: 700px;
+}
+.jumbo{color: #fff;
+	padding-top: 100px;
+	text-align: center;
+
+}
+.jumbo h1{
+	font-size: 45px;
+	font-weight: 900px
+}
+.jumbo p{
+	font-size: 20px;
+	font-weight: 500;
+}
+.jumbo a{
+	background-color: #777;
+}
+.jumbo h1,p{
+	padding: 8px;
+}
+.jumbotron{
+	text-align: center;
+	background-color: #fff;
+}
+.jumbotron h1{
+	font-size: 25px;
+}
+.jumbotron p{
+	font-size: 15px;
+}
+.container{
+	background-color: #337ab7;
+	color: #fff;
+	text-align: center;
+	width: 100%;
+}
+.container div{
+	display: inline-block;
+	width: 20%;
+}
+.container hr{ width: 10%; }
+.container div a{
+	background-color: #fff;
+	color: #000;
+}
+.container div i{
+	background-color: #fff;
+	color: #337ab7;
+	padding: 20px;
+	border-radius: 50%;
+}
+.container2{
+	background-image: url("../images/img2.jpg");
+	background-repeat: no-repeat;
+	text-align: center;
+	width: 100%;
+	height: 500px;
+	color: #fff;
+	}
+.container2 div{
+	padding-top: 200px;
+}
+.container2 h1{
+	font-size: 60px;
+	font-weight: 700;
+}	
+.container3{text-align: center;}
+.container3 img{
+	display: inline-block;
+	width: 35%;
+	height: 300px;
+	padding: 20px;
+}
+.container3 div{
+	padding: 0 0 0  30px;
+}
+.text{text-align: center;
+	padding: 30px;
+	background-color: #337ab7;
+	color: #fff;
+}
+.text .ff{background-color: #fff; color: #000;}
+.text .blue{background-color: blue;}
+.map iframe{width: 100%;}
+.lower{text-align: center;
+margin-top: 40px;
+}
+.lower i{color: #337ab7;
+padding: 0 4px;}
+footer{text-align: center;
+margin-bottom: 40px;}
